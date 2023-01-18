@@ -40,3 +40,17 @@
   .p-1 {
     padding: 1px;
   }
+
+  .row{
+    display: flex;
+  }
+
+  .col{
+    flex-grow: 3;
+    margin-right: 10px;
+  }
+
+  input{
+    display: block;
+    margin: 5px;
+  }
